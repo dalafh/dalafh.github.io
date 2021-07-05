@@ -3,23 +3,21 @@ I was born and raised in Montreal. I fell in love with programming in high schoo
 
 # Background
 ## Studies
-High school diploma at Collège Jean-Eudes, specializing in computer science from 2010-2015
-DEC at Collège Bois-de-Boulogne, CEGEP, in Computer Sciences and Mathematics from 2015-2017
-Bachelor degree at Polytechnique Montréal, in Software Engineering, specializing in artificial intelligence from 2017-2021
-Masters at Polytechnique Montréal and MILA in artificial intelligence since 2021
+- 2010-2015: High school diploma at Collège Jean-Eudes, specializing in computer science
+- 2015-2017: DEC at Collège Bois-de-Boulogne, CEGEP, in Computer Sciences and Mathematics
+- 2017-2021: Bachelor degree at Polytechnique Montréal, in Software Engineering, specializing in artificial intelligence
+- 2021: Masters at Polytechnique Montréal and MILA in artificial intelligence
 
 ## Work
-Intern in software development for the Canadian Governement during the summer of 2018
-Intern in software development at Stingray Digital during the summer of 2019
-Teacher's Assistant in C++ at Polytechnique Montréal during the spring and summer of 2020
+- Summer of 2018: Intern in software development for the Canadian Governement
+- Summer of 2019: Intern in software development at Stingray Digital
+- Spring and summer of 2020: Teacher's Assistant in C++ at Polytechnique Montréal
 
-# Areas or research
+# Areas of research
 My Master's project is focusing on Machine Learning and Constraint Programming in the field of Music Generation. I am also interested in the following subjects:
 - Natural Language Processing
 - Reinforcement Learning
 - Computer Vision
 
 # Other interests
-Music has always been a part of my life. I have learnt the basics of various instruments (violin, percussions, piano) and am currently focusing on guitar.
-I have done a lot of songwriting in high school.
-I also love to solve puzzles and enigmas.
+Music has always been a part of my life. I have learnt the basics of various instruments (violin, percussions, piano) and am currently focusing on guitar. I have done a lot of songwriting in high school. I also love to solve puzzles and enigmas. Finally, I love writing short (and longer) stories.
