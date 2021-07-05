@@ -3,6 +3,13 @@
 <img style="float: right;" src="whatever.jpg">
 Alloooooo 
 
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
 # About me
 | I was born and raised in Montreal. I fell in love with programming in high school where I learned the basics of website designing. I then decided to pursue my studies in that field by applying for CEGEP in computer science and mathematics. I have now completed my Bachelor degree in software engineering in the spring of 2021 and am currently pursuing my Masters in artificial intelligence at MILA. I am fluent in both English and French. | <img src="https://user-images.githubusercontent.com/38794099/124476545-f4ea3f00-dd70-11eb-8dea-cd098612b2a9.png" alt="drawing" width="200"/> |
 
