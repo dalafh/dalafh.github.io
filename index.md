@@ -1,8 +1,3 @@
-# About me
-* * *
-<img style="float: right; padding-left: 30px;" src="https://user-images.githubusercontent.com/38794099/124476545-f4ea3f00-dd70-11eb-8dea-cd098612b2a9.png" width="200">
-<p style="text-align:justify;">I was born and raised in Montreal. I fell in love with programming in high school where I learned the basics of website designing. I then decided to pursue my studies in that field by applying for CEGEP in computer science and mathematics. I have now completed my Bachelor degree in software engineering in the spring of 2021 and am currently pursuing my Masters in artificial intelligence at MILA. I am fluent in both English and French. </p>
-
 <img style="float: right; padding-left: 30px;" src="https://user-images.githubusercontent.com/38794099/124476545-f4ea3f00-dd70-11eb-8dea-cd098612b2a9.png" width="200">
 # About me
 <p style="text-align:justify;">I was born and raised in Montreal. I fell in love with programming in high school where I learned the basics of website designing. I then decided to pursue my studies in that field by applying for CEGEP in computer science and mathematics. I have now completed my Bachelor degree in software engineering in the spring of 2021 and am currently pursuing my Masters in artificial intelligence at MILA. I am fluent in both English and French. </p>
