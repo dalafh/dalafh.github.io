@@ -22,7 +22,7 @@ My Master's project is focusing on Machine Learning and Constraint Programming i
 - Computer Vision
 
 # Publications
-Combining Reinforcement Learning and Constraint Programming for Sequence-Generation Tasks with Hard Constraints <br>
+**Combining Reinforcement Learning and Constraint Programming for Sequence-Generation Tasks with Hard Constraints** <br>
 Daphné Lafleur, Sarath Chandar, Gilles Pesant <br>
 Paper presented at CP 2022 <br>
 [Link to paper](https://drops.dagstuhl.de/opus/frontdoor.php?source_opus=16659)
