@@ -22,10 +22,10 @@ My Master's project is focusing on Machine Learning and Constraint Programming i
 - Computer Vision
 
 # Publications
-Combining Reinforcement Learning and Constraint Programming for Sequence-Generation Tasks with Hard Constraints
-Daphné Lafleur, Sarath Chandar, Gilles Pesant
-Paper presented at CP 2022.
-Link to paper: https://drops.dagstuhl.de/opus/frontdoor.php?source_opus=16659
+Combining Reinforcement Learning and Constraint Programming for Sequence-Generation Tasks with Hard Constraints <br>
+Daphné Lafleur, Sarath Chandar, Gilles Pesant <br>
+Paper presented at CP 2022 <br>
+[Link to paper](https://drops.dagstuhl.de/opus/frontdoor.php?source_opus=16659)
 
 # Other interests
 <p style="text-align: justify"> Music has always been a part of my life. I have learnt the basics of various instruments (violin, percussions, piano) and am currently focusing on guitar. I have done a lot of songwriting in high school. I also love to solve puzzles and enigmas. Finally, I love writing short (and longer) stories. </p>
