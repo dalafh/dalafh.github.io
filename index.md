@@ -13,12 +13,19 @@
 - Summer of 2018: Intern in software development for the Canadian Governement
 - Summer of 2019: Intern in software development at Stingray Digital
 - Spring and summer of 2020: Teacher's Assistant in C++ at Polytechnique Montréal
+- Spring of 2022: Teacher's Assistant in Testing at Polytechnique Montréal
 
 # Areas of research
 My Master's project is focusing on Machine Learning and Constraint Programming in the field of Music Generation. I am also interested in the following subjects:
 - Natural Language Processing
 - Reinforcement Learning
 - Computer Vision
+
+# Publications
+Combining Reinforcement Learning and Constraint Programming for Sequence-Generation Tasks with Hard Constraints
+Daphné Lafleur, Sarath Chandar, Gilles Pesant
+Paper presented at CP 2022.
+Link to paper: https://drops.dagstuhl.de/opus/frontdoor.php?source_opus=16659
 
 # Other interests
 <p style="text-align: justify"> Music has always been a part of my life. I have learnt the basics of various instruments (violin, percussions, piano) and am currently focusing on guitar. I have done a lot of songwriting in high school. I also love to solve puzzles and enigmas. Finally, I love writing short (and longer) stories. </p>
